@@ -20,8 +20,68 @@ public class HelloController {
 }
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 //RestController to tell java that there are some apis in the code
 //RequestMapping to make method an api
 //Requestmethod.get read
+//get video --get
+//delete video --delete
+//update--put
+//create --post these are CRUD operations
 //pathvariable to assign value to the variable
 // from fontend if you get some value to assign it to a variable
+
+//mvc pattern
+//waiter----chef------refrigirator
+//single responsibility principle
+//***************************************************************************
+
+// REST Re--Representational S-State T-Transfer
